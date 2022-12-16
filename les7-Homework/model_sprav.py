@@ -20,15 +20,6 @@ def data_entry_csv(introduction_txt):
     return
 
 
-# def data_output_csv():
-#     with open("Phone_number.csv", encoding='utf-8') as r_file:
-#         lst = []
-#         reader_object = csv.reader(r_file, delimiter="-")
-#         for row in reader_object:
-#             lst.append(row)
-#         print(*lst, end='\n')
-
-
 def data_output_csv():
     with open("Phone_number.csv", encoding='utf-8') as r_file:
         lst = []
