@@ -1,0 +1,5 @@
+Ivanov	Ivan	89333300099	Father	
+Collins	Erika	89333300999	Sister	
+Fisher	Martha	89777766699	Friend	
+Bell	David	89333377788	Brother	
+
